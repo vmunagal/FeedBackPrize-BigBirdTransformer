@@ -29,6 +29,8 @@ Global Attention Matrix for Big Birds are of two types
 
 1) ITC 
 2) ETC 
+
+
 Different was if see the above Image which says Global Attention where only one token the start token is attending all instead of one token they increased it to 3 tokens 
 thats only the difference.
 
