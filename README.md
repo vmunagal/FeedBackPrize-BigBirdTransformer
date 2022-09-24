@@ -16,13 +16,13 @@ To solve the above lets Big Bird Transformer do the follows the below trick
 
 Below is the image of Attention Matrix of BigBird Transformer . if you see below matrix of Big Bird Attention score is only calculated for highlighted one.
 
-![img.png](img.png)
+![img.png](Images/img.png)
 
 Because of the above attention Matrix the time complexity is decreased to  O(n)-inner products
 
 Time & Memory Complexity 
 
-![img_1.png](img_1.png)
+![img_1.png](Images/img_1.png)
 
 
 Global Attention Matrix for Big Birds are of two types 
@@ -33,7 +33,7 @@ Different was if see the above Image which says Global Attention where only one 
 thats only the difference.
 
 
-![img_2.png](img_2.png)
+![img_2.png](Images/img_2.png)
 
 
 Above is very cool isn't ?
@@ -60,7 +60,7 @@ Approach for FeedBackPrize Dataset :
 
 I gone give the credit to Nicholas was inspired by his kernel
 
-![img_3.png](img_3.png)
+![img_3.png](Images/img_3.png)
 
 
 The dataset contains essay_id,  disclouser_text , discourse_type, discourse_effectiveness is the class label to predict 
