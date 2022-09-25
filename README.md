@@ -71,7 +71,7 @@ With this new approach we created [CLS_discourse_type] & [END_discourse_type] fo
 
 We create the output label in such a way where we assign the Label value as "0,1,2," depends on the class type to each cls token only and we back prop only that loss.
 
-Above is the overview of the approach to get detail overview please check out my notebook .
+Above is the overview of the approach to get detail overview please check out my notebook.
 
 
 
